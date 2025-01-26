@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Kent Bryan, a Front-end developer graduated at Northeastern Mindanao Colleges, Surigao Del Norte, Philippines.
+Hi there 👋<br>I'm Kent Bryan, a Front-end developer, a 4th-year college student pursuing a degree in Bachelor of Science in Information Technology at Northeastern Mindanao Colleges, Surigao Del Norte, Philippines.
 
 
 ## 🌐 Socials:
